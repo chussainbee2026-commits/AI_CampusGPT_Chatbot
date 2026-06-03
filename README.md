@@ -52,7 +52,7 @@ The project combines modern web technologies with AI integration to create a sma
 ## 1️ Clone the Repository
 
 ```bash
-git clone https://github.com/AkramHussain78618/NextGen_EduBot.git
+git clone https://github.com/chussainbee2026-commits/AI_CampusGPT_Chatbot.git
 ```
 
 ---
