@@ -1,10 +1,12 @@
-# NEXTGEN_EDUBOT
+# AI_CampusGPT_Chatbot
 
-NEXTGEN_EDUBOT is an AI-powered educational chatbot designed to provide instant learning assistance, intelligent responses, and an interactive user experience for students.
+AI_CampusGPT_Chatbot is an AI-powered educational chatbot designed to provide instant learning assistance, intelligent responses, and an interactive user experience for students.
 
 The project combines modern web technologies with AI integration to create a smart and responsive chatbot system.
 
----
+## Live Demo
+
+### https://ai-campusgpt-chatbot.onrender.com/
 
 #  Features
 
@@ -58,7 +60,7 @@ git clone https://github.com/AkramHussain78618/NextGen_EduBot.git
 ## 2️ Navigate to Project Folder
 
 ```bash
-cd NEXTGEN_EDUBOT
+cd AI_CampusGPT_Chatbot
 ```
 
 ---
@@ -108,7 +110,7 @@ This project can be deployed using:
 #  Project Structure
 
 ```bash
-NEXTGEN_EDUBOT/
+AI_CampusGPT_Chatbot/
 │
 ├── static/
 ├── templates/
@@ -125,7 +127,7 @@ NEXTGEN_EDUBOT/
 
 #  Project Objective
 
-The main goal of NEXTGEN_EDUBOT is to help students interact with an AI assistant for educational support, doubt clarification, and smart learning experiences.
+The main goal of AI_CampusGPT_Chatbot is to help students interact with an AI assistant for educational support, doubt clarification, and smart learning experiences.
 
 ---
 
@@ -133,7 +135,7 @@ The main goal of NEXTGEN_EDUBOT is to help students interact with an AI assistan
 
 ## Hussain bee & Akram Hussain
 
-Aspiring Software Developer passionate about:
+Aspiring Software Developers passionate about:
 
 * Artificial Intelligence
 * Python Development
@@ -152,4 +154,4 @@ If you like this project, give it a * on GitHub and support the repository.
 
 Feel free to connect for collaboration and learning opportunities.
 
- Thank you for visiting NEXTGEN_EDUBOT.
+ Thank you for visiting AI_CampusGPT_Chatbot.
