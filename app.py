@@ -4,7 +4,7 @@ import requests
 app = Flask(__name__)
 
 HEADERS = {
-    "User-Agent": "NextGenEduBot/1.0"
+    "User-Agent": "AICampusGPTChatbot/1.0"
 }
 
 
