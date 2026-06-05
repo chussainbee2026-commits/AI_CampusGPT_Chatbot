@@ -22,7 +22,6 @@ It includes a clean frontend chat interface and structured response system.
  Chatbot Response
 
 
-
 ## Features
  Interactive Chat UI
  AI-based response generation
@@ -50,19 +49,21 @@ AI_CampusGPT_Chatbot/
 └── README.md
 
 ## Tech Stack
+
 Python 
 Flask / FastAPI (if used)
 HTML, CSS, JavaScript (UI)
 AI / NLP Model Integration
 JSON for data flow
 
-# Installation & Setup
+## Installation & Setup
+
 1️ Clone the repository
 git clone https://github.com/chussainbee2026-commits/AI_CampusGPT_Chatbot.git
 cd AI_CampusGPT_Chatbot
 2️ Create virtual environment
 python -m venv venv
-3️ Activate environment
+3 Activate environment
 
 Windows:
 
@@ -77,14 +78,15 @@ pip install -r requirements.txt
 python app.py
 
 ## Future Improvements
- 
+
+ Deploy on Render / Railway / AWS
  Integrate OpenAI GPT API
  Mobile responsive UI
  Chat history saving
  User authentication system
  Voice input chatbot support
 
- # Use Case
+## Use Case
 
 This project is useful for:
 
@@ -94,21 +96,16 @@ Python + AI portfolio
 Internship submissions (TCS / Infosys / etc.)
 GitHub resume boosting
 
-
 ## Author
 
-HUSSAIN BEE & Akram Hussain
+** Hussain Bee & Akram Hussain **
 
- Interested in AI, Python, and Software Development
-
-# Support
+## Support
 
 If you like this project:
 
- Star the repository
- Fork it
- Share it with friends
+* Star the repository
 
-# License
+## License
 
 This project is open-source and available under the MIT License.
