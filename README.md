@@ -172,6 +172,6 @@ Python Development | Web Technologies | AI Development | Artificial Intelligence
 
 ##  Support
 
-If you found this project useful, consider giving it a star on GitHub.
+If you found this project useful, consider giving it a * star on GitHub.
 
- Star the repository and support the project!
+ 
