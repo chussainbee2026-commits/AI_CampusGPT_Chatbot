@@ -10,9 +10,9 @@ An AI-powered campus chatbot designed to assist students with academic queries, 
 
 
 
-## 🌐 Live Demo
+##  Live Demo
   
- https://your-live-demo-link-here.com
+ ### https://ai-campusgpt-chatbot.onrender.com/
 
 
 
@@ -42,11 +42,11 @@ An AI-powered campus chatbot designed to assist students with academic queries, 
 
 
 AI_CamousGPT_Chatbot/
-│
+
 ├── screenshots/
-│ ├── chatbot_interface.png
-│ ├── chatbot_response.png
-│
+ ├── chatbot_interface.png
+ ├── chatbot_response.png
+
 ├── static/
 ├── templates/
 ├── app.py
@@ -89,7 +89,7 @@ Open browser and go to:
 http://127.0.0.1:5000/
 Start chatting with AI CampusGPT 
 
- Future Improvements
+Future Improvements
 Voice-based chatbot support 
 Multi-language support 
 Improved AI accuracy
@@ -97,7 +97,7 @@ Student login system
 Database integration
 
 
- Author
+ ## Author
 
 Hussain Bee & Akram Hussain
 
