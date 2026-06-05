@@ -42,13 +42,13 @@ An AI-powered campus chatbot designed to assist students with academic queries, 
 
 
 AI_CamousGPT_Chatbot/
-
-├── screenshots/
- ├── chatbot_interface.png
- ├── chatbot_response.png
-
+│
 ├── static/
 ├── templates/
+├── screenshots/
+│   ├── chat_interface.png
+│   └── chat_response.png
+│
 ├── app.py
 ├── requirements.txt
 └── README.md
