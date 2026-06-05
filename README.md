@@ -1,146 +1,108 @@
-AI CAMPUSGPT CHATBOT
+#  AI_CamousGPT_Chatbot
 
- AI-powered Campus Assistant Chatbot designed to help students access campus-related information instantly. The chatbot provides quick responses to frequently asked questions about academics, departments, admissions, events, placements, facilities, and more.
+An AI-powered campus chatbot designed to assist students with academic queries, campus information, and general guidance. This project demonstrates the integration of AI-based chat systems with a simple and interactive user interface.
 
- Repository
 
-Student_Chatbot_API Repository
 
-Project Overview
+##  Project Overview
 
-AI CAMPUSGPT CHATBOT is an intelligent chatbot system developed to assist students by providing accurate and instant answers to campus-related queries. The chatbot reduces manual support efforts and improves student engagement through an easy-to-use conversational interface.
+**AI_CamousGPT_Chatbot** is a smart chatbot application that helps users (especially students) get quick answers related to academics, campus support, and general queries. It provides a conversational interface similar to modern AI assistants.
 
-The system can answer questions regarding:
 
-College Information
-Departments and Courses
-Admissions Process
-Placement Details
-Campus Facilities
-Events and Announcements
-Examination Information
-Student Services
 
- Features
+## 🌐 Live Demo
+  
+ https://your-live-demo-link-here.com
 
-AI-powered question answering
 
- Fast and user-friendly chatbot interface
 
- Campus information assistance
 
- REST API integration
+##  Features
 
- Scalable architecture
+-  Interactive AI Chat Interface  
+-  Campus-related query support  
+-  Fast and responsive UI  
+-  AI-powered responses  
+-  Simple and user-friendly design  
+-  Screenshot preview support  
 
- Real-time responses
 
- Easy deployment
 
- Screenshot documentation
+##  Tech Stack
 
- Technology Stack
+- Python  
+- Flask / Streamlit  
+- HTML, CSS, JavaScript  
+- OpenAI / AI Model Integration  
+- JSON / API handling  
 
-Backend
-Python
-Flask / FastAPI
-REST API
-AI & NLP
-Natural Language Processing (NLP)
-AI-based Response Generation
-Database
-SQLite
-Version Control
-Git
-GitHub
 
- Project Structure
-Student_Chatbot_API/
+
+##  Project Structure
+
+
+AI_CamousGPT_Chatbot/
 │
-├── app.py
-├── chatbot/
-├── database/
+├── screenshots/
+│ ├── chatbot_interface.png
+│ ├── chatbot_response.png
+│
 ├── static/
 ├── templates/
-├── screenshots/
-│   ├── chatbot_interface.png
-│   └── chatbot_reference.png
+├── app.py
 ├── requirements.txt
 └── README.md
 
- Screenshots
-Chatbot Interface
-screenshots/chatbot_interface.png
 
-Chatbot Reference
-screenshots/chatbot_reference.png
 
- Installation
 
-Clone Repository
-git clone https://github.com/chussainbee2026-commits/Student_Chatbot_API.git
-Move to Project Folder
-cd Student_Chatbot_API
-Create Virtual Environment
-python -m venv venv
-Activate Virtual Environment
+##  Screenshots
 
-Windows:
+###  Chatbot Interface
+![Chatbot Interface](screenshots/chatbot_interface.png)
 
-venv\Scripts\activate
+###  Chatbot Response
+![Chatbot Response](screenshots/chatbot_response.png)
 
-Linux/Mac:
 
-source venv/bin/activate
-Install Dependencies
+
+##  Installation & Setup
+
+```bash
+# Clone the repository
+git clone https://github.com/chussainbee2026-commits/AI_CampusGPT_Chatbot.git
+
+# Move into project directory
+cd AI_CampusGPT_Chatbot
+
+# Install dependencies
 pip install -r requirements.txt
-Run Application
+
+# Run the application
 python app.py
 
- Usage
-Open the application in your browser.
-Enter your campus-related question.
-The chatbot processes the query.
-Receive an instant AI-generated response.
+How to Use
+Run the project using python app.py
 
- Future Enhancements
+Open browser and go to:
 
-Voice-based interaction
-Multi-language support
-Student login integration
-Placement recommendation system
-PDF document search
-Advanced AI model integration
-Mobile application support
+http://127.0.0.1:5000/
+Start chatting with AI CampusGPT 
 
- Benefits
+ Future Improvements
+Voice-based chatbot support 
+Multi-language support 
+Improved AI accuracy
+Student login system
+Database integration
 
-Saves students' time
-Provides instant support
-Improves accessibility of information
-Reduces administrative workload
-Enhances campus digitalization
 
- Developer
+ Author
 
 Hussain Bee & Akram Hussain
 
-B.Sc Computer Science Student
-
-Aspiring Software Engineer
-
-GitHub: chussainbee2026-commits
-
- License
-
-This project is developed for educational and academic purposes.
+GitHub: AI CampusGPT Chatbot Repo
 
  Support
 
-If you found this project useful:
-
- Star the repository
-
- Fork the repository
-
- Contribute improvements
+If you like this project, please * star the repository and share it!
