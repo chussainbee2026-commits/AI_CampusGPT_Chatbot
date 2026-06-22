@@ -1,14 +1,14 @@
 from flask import Flask, render_template, request, jsonify
 import requests, re
 app=Flask(__name__)
-HEADERS={"User-Agent":"NextGenEduBot/2.0"}
+HEADERS={"User-Agent":"AICampusGPT/2.0"}
 
 TOPIC_MAP={"python":"Python programming language","java":"Java programming language","c":"C programming language","c++":"C++ programming language","dbms":"Database management system","ai":"Artificial intelligence","ml":"Machine learning"}
 
 def normalize(q):
  q=q.strip().lower()
  if q in ["who are you","what is your name","your name"]:
-  return None,"I am NextGen EduBot, a student chatbot designed to help with educational topics."
+  return None,"I am AI CampusGPT, a student chatbot designed to help with educational topics."
  return TOPIC_MAP.get(q,q),None
 
 def fetch_wikipedia_content(question):
